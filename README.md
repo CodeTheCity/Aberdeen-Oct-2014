@@ -4,7 +4,7 @@ Codethecity is an initiative aiming to improve our cities through highly focusse
 
 Our second event happens on 18th and 19th October 2014 in Aberdeen.
 
-Find out more at [codethecity.org](http://codethecity.org), on in the [wiki](https://github.com/CodeTheCity/aberdeen2014/wiki) here.
+Find out more at [codethecity.org](http://codethecity.org), on in the [wiki](https://github.com/CodeTheCity/Aberdeen-Oct-2014/wiki) here.
 
 This repo collects various promotional items for the event, and will contain aspects of the outputs from the second event in October 2014.
 
